@@ -51,20 +51,17 @@ A web application where users can browse anime, view character details, and see 
  https://github.com/malachitolbert2/anime-app
 
 
-### 2️⃣ Campus GIS Tracker
+### 2️⃣ Simple HTML Website (TuneMatch)
 📌 Description  
-A GIS-based web application that displays campus buildings on a map and allows users to click locations to see building information and descriptions.
+An idea for a website that has you take a short quiz and based on the answers or score gained, it suggest you're genre of music. The music fits your personality and mood based on responses. It will show you starter playlist, songs you may like, and recommended artist. 
 
 ⚙️ Technologies
-- JavaScript
-- Geolocation API
-- Leaflet / Mapbox
-- PostgreSQL
+- Visual Studios
+- HTML/CSS
 
 🔗 Repository  
-[View Project](https://github.com/yourusername/gis-tracker)
+ https://github.com/malachitolbert2/TuneMatch
 
----
 
 ### 3️⃣ Assembly Random String Generator
 📌 Description  
