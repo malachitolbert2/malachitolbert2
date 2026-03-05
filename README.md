@@ -63,18 +63,13 @@ An idea for a website that has you take a short quiz and based on the answers or
  https://github.com/malachitolbert2/TuneMatch
 
 
-### 3️⃣ Assembly Random String Generator
+### 3️⃣ GymCheck-in — Dev Guide (Multipass + Docker)
 📌 Description  
-A low-level program written in MASM that generates randomized strings using loops and procedures.
-
-⚙️ Technologies
-- MASM Assembly
-- Windows Console
+This project runs the web app inside a Multipass VM while MySQL lives in a Docker container on the host. Optionally, the entire stack can run in Docker Compose for teammates who prefer an all-container workflow. These instructions cover both macOS and Windows (PowerShell) tooling.
 
 🔗 Repository  
-[View Project](https://github.com/yourusername/asm-random-string)
+(https://github.com/yourusername/asm-random-string)](https://github.com/Bpannone04/COSC-440-Database-Project.git)
 
----
 
 ## 📊 GitHub Stats
 
