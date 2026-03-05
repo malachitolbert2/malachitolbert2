@@ -75,7 +75,7 @@ This project runs the web app inside a Multipass VM while MySQL lives in a Docke
 ## 📄 Professional Documents
 
 📎 Resume  
-("C:\Users\mjtolbert0\Downloads\Malachi Tolbert (resume).pdf")
+(https://github.com/malachitolbert2/Resume.git)
 
 📎 Technical Reports / Research  
 - System Design Document (DFD, ER,)
