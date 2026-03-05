@@ -95,14 +95,12 @@ A low-level program written in MASM that generates randomized strings using loop
 - Security Assessment
 - Software Architecture Diagram
 
----
 
 ## 📫 Contact
 
-Email: your.email@email.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername
+Email: Mjtolbert0@frostburg.edu
+LinkedIn: https://linkedin.com/in/malachi-tolbert  
+GitHub: https://github.com/malachitolbert2
 
----
 
 ⭐ Thanks for visiting my profile!
