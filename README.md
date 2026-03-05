@@ -43,9 +43,10 @@ Currently working on projects involving:
 A web application where users can browse anime, view character details, and see episode information retrieved from an external API.
 
 ⚙️ Technologies
-- React / Next.js
-- REST APIs
-- Supabase
+- JavaScript
+- Eclipse
+- HTML/CSS
+- Visual Studios
 
 🔗 Repository  
  https://github.com/malachitolbert2/anime-app
@@ -71,20 +72,14 @@ This project runs the web app inside a Multipass VM while MySQL lives in a Docke
 (https://github.com/Bpannone04/COSC-440-Database-Project.git)
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
-
 ## 📄 Professional Documents
 
 📎 Resume  
-[Download Resume](link-to-resume)
+("C:\Users\mjtolbert0\Downloads\Malachi Tolbert (resume).pdf")
 
 📎 Technical Reports / Research  
-- System Design Document
-- Security Assessment
+- System Design Document (DFD, ER,)
+- Project Proposal 
 - Software Architecture Diagram
 
 
