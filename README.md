@@ -23,6 +23,7 @@ Currently working on projects involving:
 - SQL
 - Assembly (MASM)
 - Terminal command line
+
 **Frameworks & Tools**
 - Git
 - Docker
@@ -51,7 +52,7 @@ An interactive web map designed for FSU students of the University campus. This 
 - Leaflet
 
 🔗 Repository  
-[https://github.com/malachitolbert2/anime-app](https://github.com/malachitolbert2/FSU-Campus-Map.git)
+(https://github.com/malachitolbert2/FSU-Campus-Map.git)
 
 
 ### 2️⃣ Simple HTML Website (TuneMatch)
