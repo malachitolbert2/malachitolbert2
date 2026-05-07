@@ -22,10 +22,11 @@ Currently working on projects involving:
 - Java
 - SQL
 - Assembly (MASM)
-
+- Terminal command line
 **Frameworks & Tools**
 - Git
 - Docker
+- QGIS
 
 **Databases**
 - MySQL
@@ -35,21 +36,22 @@ Currently working on projects involving:
 - VS Code
 - Eclipse
 - Linux
+- Ubuntu
 
 ## 📂 Featured Projects
 
-### 1️⃣ Anime Information App
+### 1️⃣ FSU Campus map
 📌 Description  
-A web application where users can browse anime, view character details, and see episode information retrieved from an external API.
+An interactive web map designed for FSU students of the University campus. This is to help new students find their way around!
 
 ⚙️ Technologies
-- JavaScript
-- Eclipse
+- Python
+- QGIS
 - HTML/CSS
-- Visual Studios
+- Leaflet
 
 🔗 Repository  
- https://github.com/malachitolbert2/anime-app
+[https://github.com/malachitolbert2/anime-app](https://github.com/malachitolbert2/FSU-Campus-Map.git)
 
 
 ### 2️⃣ Simple HTML Website (TuneMatch)
